@@ -1,7 +1,7 @@
 # BLENDED_LEARNING
 # Implementation of Logistic Regression Model for Classifying Food Choices for Diabetic Patients
-<H3>NAME: DAKSHATA G</H3>
-<H3>REGISTER NO.: 212223240021</H3>
+<H3>NAME: DHANALAKSHMI A</H3>
+<H3>REGISTER NO.: 212223040033</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
 
